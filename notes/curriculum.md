@@ -1,10 +1,10 @@
 # Java 커리큘럼 체크리스트
 
 ## 0. 환경 준비
-- [ ] JDK 25 설치 (IntelliJ에서 Eclipse Temurin 다운로드 가능)
-- [ ] IntelliJ IDEA 설치, 첫 프로젝트에서 Hello World 실행
-- [ ] Git 설치, 이 폴더를 Git 저장소로 만들기
-- [ ] IntelliJ 디버거(중단점) 사용해 보기
+- [x] JDK 25 설치 (IntelliJ에서 Eclipse Temurin 다운로드 가능)
+- [x] IntelliJ IDEA 설치, 첫 프로젝트에서 Hello World 실행
+- [x] Git 설치, 이 폴더를 Git 저장소로 만들기
+- [x] IntelliJ 디버거(중단점) 사용해 보기
 
 ## 1. 변수, 자료형, 연산자, 입출력 (1주)
 - [ ] 미니 프로젝트: 계산기
