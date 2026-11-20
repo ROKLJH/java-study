@@ -7,7 +7,7 @@
 - [x] JDK 25 설치: IntelliJ에서 Eclipse Temurin 25.0.5 다운로드 (`C:\Users\dlwog\.jdks\temurin-25.0.5`)
 - [x] `C:\java-study` 폴더를 IntelliJ 프로젝트로 열기 (File → Open), `src`를 Sources Root로 지정
 - [x] `src/day01/HelloWorld.java` 작성 및 실행 성공, 서버 접속 메시지 3줄 출력 도전 완료
-- [x] **Git 저장소 만들기
+- [x] **Git 저장소 만들기**
   - `git config --global init.defaultBranch main`
   - `git init`
   - `.gitignore` 작성: `out/`, `.idea/workspace.xml`, `.idea/shelf/`
@@ -23,3 +23,5 @@
 - add / commit / push 은 차례대로 스테이징, 로컬, 온라인
 - 중단점은, 그 줄에 멈추는게 아닌 직전에 멈춘다(디버그)
 - 스테이징을 먼저 한다음에 커밋을 해야한다. not staged가 뜨면 아직 스테이징이 안된것.
+
+### 다음 할 일: 1단계 변수, 자료형 시작
