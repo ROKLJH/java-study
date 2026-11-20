@@ -7,7 +7,7 @@
 - [x] JDK 25 설치: IntelliJ에서 Eclipse Temurin 25.0.5 다운로드 (`C:\Users\dlwog\.jdks\temurin-25.0.5`)
 - [x] `C:\java-study` 폴더를 IntelliJ 프로젝트로 열기 (File → Open), `src`를 Sources Root로 지정
 - [x] `src/day01/HelloWorld.java` 작성 및 실행 성공, 서버 접속 메시지 3줄 출력 도전 완료
-- [ ] **Git 저장소 만들기 ← 여기서 멈춤**
+- [x] **Git 저장소 만들기 ← 여기서 멈춤**
   - `git config --global init.defaultBranch main`
   - `git init`
   - `.gitignore` 작성: `out/`, `.idea/workspace.xml`, `.idea/shelf/`
